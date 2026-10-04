@@ -54,7 +54,7 @@ pip install pyserial
 
 ### 4. Jalankan Aplikasi
 ```bash
-python hardware_macro_v1.py
+python main.py
 ```
 
 ---
